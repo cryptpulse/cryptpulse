@@ -28,10 +28,10 @@
 </p>
 
 <p align="center" dir="auto">
-  <a href="https://www.linkedin.com/in/jotavare" rel="nofollow" style="display: inline-block; margin-right: 10px;">
+  <a href="www.linkedin.com/in/ömerfarukkuzu" rel="nofollow" style="display: inline-block; margin-right: 10px;">
     <img alt="Linkedin" src="https://camo.githubusercontent.com/0fc4fdeb6252286decde9a5492846c617528870f735b24e10803f9c0a492d056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3130303030303f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30413636433226636f6c6f723d304136364332" data-canonical-src="https://img.shields.io/badge/LinkedIn-100000?style=flat&amp;logo=Linkedin&amp;logoColor=white&amp;labelColor=0A66C2&amp;color=0A66C2" style="max-width: 100%;">
   </a>
-  <a href="https://profile.intra.42.fr/users/jotavare" rel="nofollow" style="display: inline-block; margin-right: 10px;">
+  <a href="https://apply.42kocaeli.com.tr/users/omkuzu/kickoffs_users" rel="nofollow" style="display: inline-block; margin-right: 10px;">
     <img alt="42" src="https://camo.githubusercontent.com/9892bcf1daae96970cfd6db1386fe04e3d153d83d272ee039aa9dee4051c177b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f72746f2d3130303030303f7374796c653d666c6174266c6f676f3d3432266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d30303030303026636f6c6f723d303030303030" data-canonical-src="https://img.shields.io/badge/Porto-100000?style=flat&amp;logo=42&amp;logoColor=white&amp;labelColor=000000&amp;color=000000" style="max-width: 100%;">
   </a>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/fa21e291d1cd3a4d644b73eb218812fb668a9609e2a78c9df1fb3dcda88f88fc/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6a6f746176617265267374796c653d666c617426636f6c6f723d626c7565266c6162656c3d50726f66696c652b566973697473" style="display: inline-block;">

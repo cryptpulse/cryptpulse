@@ -18,11 +18,11 @@
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_ctf_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://jotavare.github.io" rel="nofollow">
+  <a href="https://omerfarukkuzu.my.canva.site/black-simple-dark-graphic-design-portfolio-website-ui-prototype#page-2" rel="nofollow">
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_registry_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://github.com/jotavare/100-days-of-code-in-python">
+  <a href="https://github.com/omrfrkzu/100-days-of-code-in-python">
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_python_v1.png" width="265" style="max-width: 100%;">
   </a>
 </p>

@@ -4,7 +4,7 @@
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_resources_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://github.com/jotavare/42-piscine">
+  <a href="https://github.com/omrfrkzu/Ecole-42-Havuz">
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;

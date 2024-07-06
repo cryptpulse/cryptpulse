@@ -15,7 +15,7 @@
 
 <p align="center" dir="auto">  
   <a href="https://github.com/jotavare/42-ctf">
-    <img src="C:\Users\ömer\Downloads\P.png" width="265" style="max-width: 100%;">
+    <img src="P.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://omerfarukkuzu.my.canva.site/black-simple-dark-graphic-design-portfolio-website-ui-prototype#page-2" rel="nofollow">

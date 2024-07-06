@@ -8,7 +8,7 @@
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_piscine_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://github.com/omrfrkzu/42-common-core">
+  <a href="https://github.com/omrfrkzu/42_common_core.git">
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_common_core_v1.png" width="265" style="max-width: 100%;">
   </a>
 </p>

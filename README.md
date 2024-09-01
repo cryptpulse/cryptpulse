@@ -27,38 +27,36 @@
   </a>
 </p>
 
+<p align="center">
+  <a href='https://www.linkedin.com/in/omrfkzu/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
+  </a>
+  <a href='https://profile.intra.42.fr/users/omkuzu/' target="_blank"><img alt='42' src='https://img.shields.io/badge/42-Kocaeli-Kocaeli'/></a>
+  </a>
 </p>
-  
-</p>
+
+## About me
+
+- I’m currently studying Common Core at 42 Porto, after successfully completing the Piscine.
+- I’m interested in `Games`, `Anime/Manga`, `Snowboarding` and `3D Printing`.
+- My other areas of focus are `Cybersecurity`, `Project Management` and `Data Analysis`.
+- I have six years of work experience in `Graphic Design` and `Offset Printing`.
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Skills</h2><a id="user-content-skills" class="anchor" aria-label="Permalink: Skills" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <ul dir="auto">
-<li>
-<p dir="auto">💻 Python3 / C / C++ / Webcoding(HTML,CSS,Java Script ,PHP, MySQL)</p>
-</li>
-<li>
-<p dir="auto">💥 Linux OS / Windows OS / Kali OS</p>
-</li>
-<li>
-<p dir="auto">💪 Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / OSINT</p>
-</li>
-<li>
-<p dir="auto">💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF</p>
-</li>
-<li>
-<p dir="auto">👀 Try Hack Me / Hack The Box / Cyber Talents</p>
-</li>
-<li>
-<p dir="auto">🔥
-Metasploit /
-Nmap /
-Wpscan /
-Burp-suite /
-Wireshark /
-gobuster /
-dirsearch /
-Hydra
-etc</p>
-</li>
+    <li>💻 Python3 / C / C++ / Webcoding (HTML, CSS, JavaScript, PHP, MySQL)</li>
+    <li>💥 Linux OS / Windows OS / Kali OS</li>
+    <li>💪 Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / OSINT</li>
+    <li>💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF</li>
+    <li>👀 Try Hack Me / Hack The Box / Cyber Talents</li>
+    <li>🔥 Metasploit / Nmap / Wpscan / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc.</li>
 </ul>
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,python,git,github,bash,linux,vscode,ai,ps,markdown,latex,wordpress" />
+  </a>
+</p>
+

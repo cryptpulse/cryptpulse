@@ -23,7 +23,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/100-days-of-code-in-python">
-    <img src="Banners/FEWFWEEF.png" width="265" style="max-width: 100%;">
+    <img src="Banners/python.png" width="265" style="max-width: 100%;">
   </a>
 </p>
 

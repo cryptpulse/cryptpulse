@@ -5,7 +5,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/Ecole-42-Havuz">
-    <img src="Banners/github_profile_banner_round_piscine_982024_651.png" width="265" style="max-width: 100%;">
+    <img src="Banners/FWEFWEFWEF.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/42-common-core">

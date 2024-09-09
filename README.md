@@ -19,7 +19,7 @@
   </a>
   &nbsp;
   <a href="https://www.omerfarukkuzu.com/" rel="nofollow">
-    <img src="Banners/EDWD.png" width="265" style="max-width: 100%;">
+    <img src="Banners/DWEDWD.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/100-days-of-code-in-python">

@@ -8,7 +8,7 @@
     <img src="Banners/github_profile_banner_round_piscine_982024_651.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://github.com/omrfrkzu/42_common_core.git">
+  <a href="https://github.com/omrfrkzu/42-common-core">
     <img src="Banners/github_profile_banner_round_common_core_982024_651.png" width="265" style="max-width: 100%;">
   </a>
 </p>
@@ -18,7 +18,7 @@
     <img src="https://github.com/omrfrkzu/omrfrkzu/blob/94ad4cc01a3d2d7d7f141be3b22ac79e240e6899/lkjh.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
-  <a href="https://omerfarukkuzu.my.canva.site/black-simple-dark-graphic-design-portfolio-website-ui-prototype#page-2" rel="nofollow">
+  <a href="https://www.omerfarukkuzu.com/" rel="nofollow">
     <img src="https://github.com/jotavare/jotavare/raw/main/42/banners/profile/github_profile_banner_round_registry_v1.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;

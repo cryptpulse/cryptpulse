@@ -1,15 +1,15 @@
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Everything is Here</h2><a id="user-content-the-good-the-bad-and-the-ugly" class="anchor" aria-label="Permalink: The Good, the Bad and the Ugly" href="#the-good-the-bad-and-the-ugly"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <p align="center" dir="auto">
   <a href="https://github.com/omrfrkzu/42-resources">
-    <img src="Banners/resources.png" width="265" style="max-width: 100%;">
+    <img src="https://github.com/omrfrkzu/omrfrkzu/blob/983c0d56750d9da472547e4cad12954946d50527/Banners/github_profile_banner_round_resources_982024_651.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/Ecole-42-Havuz">
-    <img src="Banners/piscne.png" width="265" style="max-width: 100%;">
+    <img src="https://github.com/omrfrkzu/omrfrkzu/blob/983c0d56750d9da472547e4cad12954946d50527/Banners/github_profile_banner_round_piscine_982024_651.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/42-common-core">
-    <img src="Banners/common_core.png" width="265" style="max-width: 100%;">
+    <img src="https://github.com/omrfrkzu/omrfrkzu/blob/983c0d56750d9da472547e4cad12954946d50527/Banners/github_profile_banner_round_common_core_982024_651.png" width="265" style="max-width: 100%;">
   </a>
 </p>
 

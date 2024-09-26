@@ -15,11 +15,11 @@
 
 <p align="center" dir="auto">  
   <a href="https://github.com/omrfrkzu/programming-languages">
-    <img src="Banners/lang.png" width="265" style="max-width: 100%;">
+    <img src="Banners/projectss.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://www.omerfarukkuzu.com/" rel="nofollow">
-    <img src="Banners/websıte.png" width="265" style="max-width: 100%;">
+    <img src="Banners/mywebsite.png" width="265" style="max-width: 100%;">
   </a>
   &nbsp;
   <a href="https://github.com/omrfrkzu/100-days-of-code-in-python">

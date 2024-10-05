@@ -34,7 +34,7 @@
   </a>
 </p>
 
-## About me
+## Hakkımda
 
 - I’m currently studying Common Core at 42 Kocaeli, after successfully completing the Piscine.
 - I’m interested in  `Cybersecurity`, `Backend Develepoer` and `Dipigtal Forensics`.
@@ -42,15 +42,15 @@
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">Skills</h2><a id="user-content-skills" class="anchor" aria-label="Permalink: Skills" href="#skills"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 
 <ul dir="auto">
-    <li>💻 Python3 / C / C++ / Webcoding (HTML, CSS, JavaScript, PHP, MySQL)</li>
-    <li>💥 Linux OS / Windows OS / Kali OS</li>
-    <li>💪 Cryptography / Steganography / Digital Forensics / Web-Pentesting / Reverse-Engineering / OSINT</li>
-    <li>💀 Ethical Hacking / Web-pentesting / Basic Networking / CTF</li>
+    <li>💻 Python3 / C / C++ / Web kodlama (HTML, CSS, JavaScript, PHP, MySQL)</li>
+    <li>💥 Linux İşletim Sistemi / Windows İşletim Sistemi / Kali İşletim Sistemi</li>
+    <li>💪 Kriptografi / Steganografi / Dijital Adli Bilişim / Web Sızma Testi / Tersine Mühendislik / OSINT</li>
+    <li>💀 Etik Hackleme / Web Sızma Testi / Temel Ağ Bilgisi / CTF</li>
     <li>👀 Try Hack Me / Hack The Box / Cyber Talents</li>
-    <li>🔥 Metasploit / Nmap / Wpscan / Burp-suite / Wireshark / gobuster / dirsearch / Hydra etc.</li>
+    <li>🔥 Metasploit / Nmap / Wpscan / Burp-suite / Wireshark / gobuster / dirsearch / Hydra vb.</li>
 </ul>
 
-## Skills
+## Yetenekler
 
 <p align="center">
   <a href="https://skillicons.dev">
